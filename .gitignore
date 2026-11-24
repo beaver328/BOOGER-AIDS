@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+ingredients.db
+forms.db
+BD.db
+.venv/
